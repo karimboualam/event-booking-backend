@@ -1,0 +1,7 @@
+# .gitignore
+.env
+*.log
+*.env.*
+vendor/
+.DS_Store
+bin/
